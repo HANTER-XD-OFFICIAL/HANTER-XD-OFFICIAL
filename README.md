@@ -1,4 +1,4 @@
-[![IMG-20231025_012645.png](https://i.postimg.cc/wxGMqQ5t/IMG-20231025_012645.png)](https://postimg.cc/Z064j3MZ)
+[![IMG-20231025_012645.png](https://i.postimg.cc/8PR2w25W/20240525-195650.png)](https://postimg.cc/nCLShwqc)
 <h1 align="center">𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟</h1>
 <h3 align="center">𝗜 𝗔𝗠 𝗙𝗥𝗢𝗠 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
