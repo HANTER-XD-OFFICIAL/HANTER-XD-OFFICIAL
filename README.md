@@ -29,7 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel_cyber&show_icons=true&locale=en" alt="rasel_cyber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel_cyber&" alt="rasel_cyber" /></p>{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel_cyber&" alt="rasel_cyber" /></p>
+{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
 {{𝗕𝗗}}{{{{𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}
 
 ## 🌐 Socials:
