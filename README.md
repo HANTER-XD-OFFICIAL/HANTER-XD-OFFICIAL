@@ -68,11 +68,7 @@
 ### ✍️ RANDOM DEV QUOTE:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
-![](https://github-contributor-stats.{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}vercel.app/api?username=SAGAR-CYBER99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Max-fro-man&icon=0&color=0)](https://visitcount.itsvg.in)
