@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel_cyber&label=Profile%20views&color=0e75b6&style=flat" alt="rasel_cyber" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Rasel_cyber" target="blank"><img src="https://img.shields.io/twitter/follow/Rasel_cyber?logo=twitter&style=for-the-badge" alt="Rasel_cyber" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HANTER-XD-OFFICIAL" target="blank"><img src="https://img.shields.io/twitter/follow/HANTER-XD-OFFICIAL?logo=twitter&style=for-the-badge" alt="HANTER-XD-OFFICIAL" /></a> </p>
 
 - 👨‍💻 𝗔𝗟𝗟 𝗢𝗙 𝗠𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗔𝗥𝗘 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗔𝗧 [https://github.com/HANTER-XD-OFFICIAL](https://github.com/HANTER-XD-OFFICIAL)
 
