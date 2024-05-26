@@ -39,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
 [![In-Shot-20240526-125002673.gif](https://i.postimg.cc/3xbNGVDH/In-Shot-20240526-125002673.gif)](https://postimg.cc/QF1jG6b6)
 
 <img align="middle" alt="Coding" width="800" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif">
@@ -52,21 +51,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanter-xd-official&" alt="hanter-xd-official" /></p>
 
-{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
-{{𝗕𝗗}}{{{{𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}
 
-## 🌐 Socials:
+## 🌐 SOCIALS:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Max-fro-man) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MD.RASEL.CYBER)
 
-# 💻 Tech Stack:{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
+# 💻 TECH STACK:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
 # 
 
 
-## 🏆 GitHub Trophies:{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
+## 🏆 GITHUB TROPHIES:
 ![](https://github-profile-trophy.vercel.app/?username=Max-fro-man&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
+### ✍️ RANDOM DEV QUOTE:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo{{𝗛𝗔𝗡𝗧𝗘𝗥-𝗫𝗗}}{{𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟}}
