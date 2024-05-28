@@ -47,10 +47,8 @@
 
 [![0fc6bfc260d8863ea680dc29a0157ad2.gif](https://i.postimg.cc/9Q8WGJzq/0fc6bfc260d8863ea680dc29a0157ad2.gif)](https://postimg.cc/fVdns7cw)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanter-xd-official&show_icons=true&locale=en&layout=compact" alt="hanter-xd-official" /></p>
 
