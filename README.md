@@ -45,7 +45,7 @@
 
 <img align="middle" alt="Coding" width="800" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif">
 
-[![0f9eb42da3a21edcf65af6db089c235b.gif](https://i.postimg.cc/T1XF4dBv/0f9eb42da3a21edcf65af6db089c235b.gif)](https://postimg.cc/ygvLJHVL)
+[![0fc6bfc260d8863ea680dc29a0157ad2.gif](https://i.postimg.cc/9Q8WGJzq/0fc6bfc260d8863ea680dc29a0157ad2.gif)](https://postimg.cc/fVdns7cw)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanter-xd-official&show_icons=true&locale=en&layout=compact" alt="hanter-xd-official" /></p>
 
