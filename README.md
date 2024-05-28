@@ -74,5 +74,4 @@
 [![](https://visitcount.itsvg.in/api?id=Max-fro-man&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanter-xd-official&label=Profile%20views&color=0e75b6&style=flat" alt="hanter-xd-official" /> </p>
