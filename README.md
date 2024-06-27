@@ -41,11 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-[![ae53f8e25fd485a4a1f91f1ecbdf9080.jpg](https://i.postimg.cc/ZqMfZN0d/ae53f8e25fd485a4a1f91f1ecbdf9080.jpg)](https://postimg.cc/067G0bYk)
+[![18a4949fc9c8067172d3b96e302e7097.gif](https://i.postimg.cc/PxyF1D8G/18a4949fc9c8067172d3b96e302e7097.gif)](https://postimg.cc/6270Xy0z)
 
 <img align="middle" alt="Coding" width="800" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif">
 
-[![0fc6bfc260d8863ea680dc29a0157ad2.gif](https://i.postimg.cc/9Q8WGJzq/0fc6bfc260d8863ea680dc29a0157ad2.gif)](https://postimg.cc/fVdns7cw)
+[![799e0d7779f6ea6c3a89885ff60c55af.gif](https://i.postimg.cc/52Hd1sQX/799e0d7779f6ea6c3a89885ff60c55af.gif)](https://postimg.cc/pmt1JYZv)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanter-xd-official&show_icons=true&locale=en&layout=compact" alt="hanter-xd-official" /></p>
 
