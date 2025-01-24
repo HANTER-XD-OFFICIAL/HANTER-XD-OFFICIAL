@@ -51,7 +51,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanter-xd-official&show_icons=true&locale=en" alt="hanter-xd-official" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HANTER-XD-OFFICIAL&theme=default" alt="HANTER-XD-OFFICIAL" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HANTER-XD-OFFICIAL&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="HANTER-XD-OFFICIAL" /></a>
 
 
 ## 🌐 SOCIALS:
